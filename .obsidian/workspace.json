@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13e8591742e6e147",
+        "id": "18fb3bfe26f7a83b",
         "type": "tabs",
         "children": [
           {
-            "id": "429ec16852ce4e67",
+            "id": "8bc21ce5d39b1ef5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "extras/attachments/Mark Roberts.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mark Roberts"
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "extras/attachments/Mark Roberts.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mark Roberts"
             }
           },
           {
@@ -107,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "extras/attachments/Mark Roberts.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mark Roberts"
             }
           },
           {
@@ -132,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "extras/attachments/Mark Roberts.pdf"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mark Roberts"
             }
           }
         ]
@@ -154,6 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "429ec16852ce4e67",
-  "lastOpenFiles": []
+  "active": "8bc21ce5d39b1ef5",
+  "lastOpenFiles": [
+    "README.md",
+    "extras/attachments/Mark Roberts.pdf",
+    "extras/attachments",
+    "extras"
+  ]
 }
