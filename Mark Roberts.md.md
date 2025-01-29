@@ -10,7 +10,9 @@
 
 ### Software Developer at Gearset, Cambridge - 01/2023 to 08/2023
 
-### Software Developer at TIDE Services Ltd, Huntingdon - 06/2018 to 12/2022
+### Technical Lead at TIDE Services Ltd, Huntingdon - 04/2022 to 12/2022
+
+### Software Developer at TIDE Services Ltd, Huntingdon - 06/2018 to 03/2022
 
 ### Systems Developer at IISG Limited, Guildford - 06/2012 to 02/2018
 

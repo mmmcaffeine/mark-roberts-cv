@@ -46,6 +46,18 @@
               "icon": "lucide-file",
               "title": "To Do.md"
             }
+          },
+          {
+            "id": "f748982dfc433c0a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "extras/attachments/Mark Roberts.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mark Roberts"
+            }
           }
         ],
         "currentTab": 1
@@ -191,9 +203,9 @@
   },
   "active": "f4ffd342de3fffe6",
   "lastOpenFiles": [
-    "To Do.md.md",
-    "Mark Roberts.md.md",
     "extras/attachments/Mark Roberts.pdf",
+    "Mark Roberts.md.md",
+    "To Do.md.md",
     "Untitled",
     "README.md",
     "extras/attachments",
