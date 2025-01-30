@@ -1,0 +1,6 @@
+### Obsidian ###
+
+# Workspaces (high churn files)
+
+.obsidian/workspace.json
+.obsidian/workspaces.json
