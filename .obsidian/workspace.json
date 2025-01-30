@@ -23,14 +23,12 @@
             "id": "f4ffd342de3fffe6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mark Roberts.md.md",
-                "mode": "source",
-                "source": false
+                "file": "extras/attachments/Mark Roberts.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Mark Roberts.md"
+              "icon": "lucide-file-text",
+              "title": "Mark Roberts"
             }
           },
           {
@@ -201,10 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ffd342de3fffe6",
+  "active": "6b577c41b23a9980",
   "lastOpenFiles": [
-    "extras/attachments/Mark Roberts.pdf",
+    "extras/attachments/Mark Roberts.docx",
     "Mark Roberts.md.md",
+    "extras/attachments/Mark Roberts.pdf",
     "To Do.md.md",
     "Untitled",
     "README.md",
